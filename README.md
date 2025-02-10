@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+# My Project
+This is a sample project. Visit My Website https://wheather-app-50ea7.firebaseapp.com/ for more info.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
